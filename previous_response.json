@@ -955,6 +955,156 @@
         "supervisor": {
           "type": "user",
           "imageGender": "male",
+          "phones": [
+            {
+              "type": "tel1"
+            }
+          ],
+          "label": "privato",
+          "imageType": "user",
+          "phoneUrl": "https://media.immobiliare.it/text/tel_108804537_b9ffa.jpg?k=653a5f32792cab550884c441eff669be"
+        },
+        "hasCallNumbers": true
+      },
+      "contract": "rent",
+      "id": 108804537,
+      "isNew": true,
+      "luxury": false,
+      "price": {
+        "visible": true,
+        "value": 500,
+        "formattedValue": "€ 500/mese",
+        "priceRange": "fino a 500 &euro;"
+      },
+      "properties": [
+        {
+          "income": false,
+          "multimedia": {
+            "photos": [
+              {
+                "id": 1463416161,
+                "caption": "",
+                "urls": {
+                  "small": "https://pwm.im-cdn.it/image/1463416161/xxs-c.jpg"
+                }
+              },
+              {
+                "id": 1463416189,
+                "caption": "",
+                "urls": {
+                  "small": "https://pwm.im-cdn.it/image/1463416189/xxs-c.jpg"
+                }
+              }
+            ],
+            "virtualTours": [],
+            "hasMultimedia": true
+          },
+          "bathrooms": "2",
+          "ga4Bathrooms": "2",
+          "bedRoomsNumber": "3",
+          "floor": {
+            "abbreviation": "5",
+            "value": "5°",
+            "ga4FloorValue": "5"
+          },
+          "floors": "9 piani",
+          "price": {
+            "visible": true,
+            "value": 500,
+            "formattedValue": "€ 500/mese",
+            "priceRange": "fino a 500 &euro;"
+          },
+          "rooms": "4",
+          "hasElevators": false,
+          "surface": "25 m²",
+          "surfaceValue": "25 m²",
+          "typology": {
+            "id": 194,
+            "name": "Stanza in appartamento"
+          },
+          "typologyV2": {
+            "id": 194,
+            "name": "Stanza in appartamento"
+          },
+          "typologyGA4Translation": "Appartamento",
+          "ga4features": [
+            "balcone",
+            "ripostiglio",
+            "lavatrice",
+            "microonde",
+            "portineria",
+            "ascensore",
+            "armadi",
+            "cucina"
+          ],
+          "category": {
+            "id": 4,
+            "name": "Stanze"
+          },
+          "description": "stanza vicino a certosa letto matrimoniale appartamento condiviso servita da mezzi passante ferroviario e facilmente raggiungibile metro",
+          "energy": {
+            "zeroEnergyBuilding": false,
+            "heatingType": "autonomo",
+            "GA4Heating": "Autonomo"
+          },
+          "features": [
+            "Ripostiglio",
+            "Lavatrice",
+            "Microonde",
+            "Portineria",
+            "Ascensore"
+          ],
+          "photo": {
+            "id": 1463416161,
+            "caption": "",
+            "urls": {
+              "thumb": "https://pwm.im-cdn.it/image/1463416161/thumb.jpg",
+              "small": "https://pwm.im-cdn.it/image/1463416161/xxs-c.jpg",
+              "medium": "https://pwm.im-cdn.it/image/1463416161/m-c.jpg",
+              "large": "https://pwm.im-cdn.it/image/1463416161/xxl.jpg"
+            }
+          },
+          "location": {
+            "latitude": 45.5197,
+            "longitude": 9.14061,
+            "marker": "marker",
+            "region": "Lombardia",
+            "province": "Milano",
+            "macrozone": "Affori, Bovisa",
+            "microzone": "Roserio",
+            "city": "Milano",
+            "nation": {
+              "id": "IT",
+              "name": "Italia",
+              "keyurl": "Italia"
+            }
+          }
+        }
+      ],
+      "title": "Stanza singola via Longarone 14, Milano",
+      "type": "ad",
+      "typology": {
+        "id": 194,
+        "name": "Stanza in appartamento"
+      },
+      "hasMainProperty": false,
+      "isProjectLike": false
+    },
+    "seo": {
+      "anchor": "Stanza singola via Longarone 14, Milano",
+      "title": "Stanza singola via Longarone 14, Milano",
+      "metaTitle": "Stanza singola in affitto, affittasi camera singola via Longarone 14 Roserio Milano",
+      "url": "https://www.immobiliare.it/annunci/108804537/"
+    },
+    "idGeoHash": "u0n6zyxg"
+  },
+  {
+    "realEstate": {
+      "dataType": "list-real-estate",
+      "advertiser": {
+        "supervisor": {
+          "type": "user",
+          "imageGender": "male",
           "phones": [],
           "label": "privato",
           "imageType": "user"
@@ -5473,306 +5623,5 @@
       "url": "https://www.immobiliare.it/annunci/108768189/"
     },
     "idGeoHash": "u0nd9wh2"
-  },
-  {
-    "realEstate": {
-      "dataType": "list-real-estate",
-      "advertiser": {
-        "agency": {
-          "id": 242598,
-          "type": "agency",
-          "phones": [
-            {
-              "type": "vTel1",
-              "value": "02 8973 5897"
-            }
-          ],
-          "isPaid": true,
-          "guaranteed": false,
-          "showAgentPhone": false,
-          "label": "agenzia",
-          "agencyUrl": "https://www.immobiliare.it/agenzie-immobiliari/242598/zappyrent/",
-          "imageUrls": {
-            "small": "https://pic.im-cdn.it/imagenoresize/932314493.jpg",
-            "large": "https://pic.im-cdn.it/imagenoresize/932314495.jpg"
-          },
-          "displayName": "Zappyrent.com",
-          "bookableVisit": {
-            "isVisitBookable": true,
-            "virtualVisitEnabled": true
-          }
-        },
-        "hasCallNumbers": true
-      },
-      "contract": "rent",
-      "id": 108762577,
-      "isNew": true,
-      "luxury": false,
-      "price": {
-        "visible": true,
-        "value": 730,
-        "formattedValue": "€ 730/mese",
-        "priceRange": "501 - 1000 &euro;"
-      },
-      "properties": [
-        {
-          "income": false,
-          "multimedia": {
-            "photos": [
-              {
-                "id": 1462661153,
-                "caption": "property 26373 634e870c72dd7 d",
-                "urls": {
-                  "small": "https://pwm.im-cdn.it/image/1462661153/xxs-c.jpg"
-                }
-              },
-              {
-                "id": 1462661163,
-                "caption": "property 26373 634e870ce54cc d",
-                "urls": {
-                  "small": "https://pwm.im-cdn.it/image/1462661163/xxs-c.jpg"
-                }
-              },
-              {
-                "id": 1462661171,
-                "caption": "property 26373 634e870d4355f d",
-                "urls": {
-                  "small": "https://pwm.im-cdn.it/image/1462661171/xxs-c.jpg"
-                }
-              },
-              {
-                "id": 1462661175,
-                "caption": "property 26373 634e870d84a43 d",
-                "urls": {
-                  "small": "https://pwm.im-cdn.it/image/1462661175/xxs-c.jpg"
-                }
-              },
-              {
-                "id": 1462661185,
-                "caption": "property 26373 634e870dd8de0 d",
-                "urls": {
-                  "small": "https://pwm.im-cdn.it/image/1462661185/xxs-c.jpg"
-                }
-              },
-              {
-                "id": 1462661191,
-                "caption": "property 26373 634e870e39069 d",
-                "urls": {
-                  "small": "https://pwm.im-cdn.it/image/1462661191/xxs-c.jpg"
-                }
-              },
-              {
-                "id": 1462661199,
-                "caption": "property 26373 634e870e987c5 d",
-                "urls": {
-                  "small": "https://pwm.im-cdn.it/image/1462661199/xxs-c.jpg"
-                }
-              },
-              {
-                "id": 1462661207,
-                "caption": "property 26373 634e870eed889 d",
-                "urls": {
-                  "small": "https://pwm.im-cdn.it/image/1462661207/xxs-c.jpg"
-                }
-              },
-              {
-                "id": 1462661215,
-                "caption": "property 26373 634e870f5ee99 d",
-                "urls": {
-                  "small": "https://pwm.im-cdn.it/image/1462661215/xxs-c.jpg"
-                }
-              },
-              {
-                "id": 1462661221,
-                "caption": "property 26373 634e870fb5a79 d",
-                "urls": {
-                  "small": "https://pwm.im-cdn.it/image/1462661221/xxs-c.jpg"
-                }
-              },
-              {
-                "id": 1462661231,
-                "caption": "property 26373 634e8710054a6 d",
-                "urls": {
-                  "small": "https://pwm.im-cdn.it/image/1462661231/xxs-c.jpg"
-                }
-              },
-              {
-                "id": 1462661239,
-                "caption": "property 26373 634e87105d3d4 d",
-                "urls": {
-                  "small": "https://pwm.im-cdn.it/image/1462661239/xxs-c.jpg"
-                }
-              },
-              {
-                "id": 1462661245,
-                "caption": "property 26373 634e8710bd41a d",
-                "urls": {
-                  "small": "https://pwm.im-cdn.it/image/1462661245/xxs-c.jpg"
-                }
-              },
-              {
-                "id": 1462661251,
-                "caption": "property 26373 634e87111b67f d",
-                "urls": {
-                  "small": "https://pwm.im-cdn.it/image/1462661251/xxs-c.jpg"
-                }
-              },
-              {
-                "id": 1462661261,
-                "caption": "property 26373 634e87117ff11 d",
-                "urls": {
-                  "small": "https://pwm.im-cdn.it/image/1462661261/xxs-c.jpg"
-                }
-              },
-              {
-                "id": 1462661265,
-                "caption": "property 26373 634e8711e1d6b d",
-                "urls": {
-                  "small": "https://pwm.im-cdn.it/image/1462661265/xxs-c.jpg"
-                }
-              },
-              {
-                "id": 1462661271,
-                "caption": "property 26373 634e87125f7a5 d",
-                "urls": {
-                  "small": "https://pwm.im-cdn.it/image/1462661271/xxs-c.jpg"
-                }
-              },
-              {
-                "id": 1462661285,
-                "caption": "property 26373 634e8712be769 d",
-                "urls": {
-                  "small": "https://pwm.im-cdn.it/image/1462661285/xxs-c.jpg"
-                }
-              },
-              {
-                "id": 1462661293,
-                "caption": "property 26373 634e87132d871 d",
-                "urls": {
-                  "small": "https://pwm.im-cdn.it/image/1462661293/xxs-c.jpg"
-                }
-              },
-              {
-                "id": 1462661303,
-                "caption": "property 26373 634e871387a81 d",
-                "urls": {
-                  "small": "https://pwm.im-cdn.it/image/1462661303/xxs-c.jpg"
-                }
-              },
-              {
-                "id": 1462661311,
-                "caption": "property 26373 634e8713e8a94 d",
-                "urls": {
-                  "small": "https://pwm.im-cdn.it/image/1462661311/xxs-c.jpg"
-                }
-              },
-              {
-                "id": 1462661315,
-                "caption": "property 26373 634e871446a16 d",
-                "urls": {
-                  "small": "https://pwm.im-cdn.it/image/1462661315/xxs-c.jpg"
-                }
-              },
-              {
-                "id": 1462661323,
-                "caption": "property 26373 634e871493060 d",
-                "urls": {
-                  "small": "https://pwm.im-cdn.it/image/1462661323/xxs-c.jpg"
-                }
-              }
-            ],
-            "virtualTours": [
-              null
-            ],
-            "hasMultimedia": true
-          },
-          "bathrooms": "2",
-          "ga4Bathrooms": "2",
-          "bedRoomsNumber": "1",
-          "floor": {
-            "abbreviation": null,
-            "value": "4°",
-            "ga4FloorValue": "4"
-          },
-          "floors": "5 piani",
-          "ga4Condition": "Ottimo / Ristrutturato",
-          "condition": "Ottimo / Ristrutturato",
-          "price": {
-            "visible": true,
-            "value": 730,
-            "formattedValue": "€ 730/mese",
-            "priceRange": "501 - 1000 &euro;"
-          },
-          "rooms": "1",
-          "hasElevators": false,
-          "surface": "120 m²",
-          "surfaceValue": "120 m²",
-          "typology": {
-            "id": 236,
-            "name": "Stanza in casa indipendente"
-          },
-          "typologyV2": {
-            "id": 236,
-            "name": "Stanza in casa indipendente"
-          },
-          "typologyGA4Translation": "Casa indipendente",
-          "ga4features": [
-            "porta blindata"
-          ],
-          "category": {
-            "id": 4,
-            "name": "Stanze"
-          },
-          "description": "ZappyRent \n Affittasi camera singola in zona centrale da cui poter raggiungere facilmente supermercati, ristoranti e negozi, e ottimamente servita dai mezzi pubblici. Luminosa camera singola completa di tutto.  \n La stanza ha un canone mensile di 780€ comprensivo delle spese di acqua, gas, luce, spazzatura, condominio.",
-          "energy": {
-            "zeroEnergyBuilding": false,
-            "heatingType": "autonomo, a pavimento",
-            "GA4Heating": "Autonomo"
-          },
-          "features": [],
-          "photo": {
-            "id": 1462661153,
-            "caption": "property 26373 634e870c72dd7 d",
-            "urls": {
-              "thumb": "https://pwm.im-cdn.it/image/1462661153/thumb.jpg",
-              "small": "https://pwm.im-cdn.it/image/1462661153/xxs-c.jpg",
-              "medium": "https://pwm.im-cdn.it/image/1462661153/m-c.jpg",
-              "large": "https://pwm.im-cdn.it/image/1462661153/xxl.jpg"
-            }
-          },
-          "location": {
-            "latitude": 45.4268,
-            "longitude": 9.16791,
-            "marker": "marker",
-            "region": "Lombardia",
-            "province": "Milano",
-            "macrozone": "Famagosta, Barona",
-            "microzone": "Cantalupa - San Paolo",
-            "city": "Milano",
-            "nation": {
-              "id": "IT",
-              "name": "Italia",
-              "keyurl": "Italia"
-            }
-          }
-        }
-      ],
-      "title": "Stanza in affitto in casa indipendente via Jan Palach, Milano",
-      "type": "ad",
-      "typology": {
-        "id": 236,
-        "name": "Stanza in casa indipendente"
-      },
-      "visibility": "premium",
-      "hasMainProperty": false,
-      "isProjectLike": false
-    },
-    "seo": {
-      "anchor": "Stanza in affitto in casa indipendente via Jan Palach, Milano",
-      "title": "Stanza in affitto in casa indipendente via Jan Palach, Milano",
-      "metaTitle": "Stanza in affitto in Casa indipendente, affittasi camera via Jan Palach, Milano",
-      "url": "https://www.immobiliare.it/annunci/108762577/"
-    },
-    "idGeoHash": "u0nd2tey"
   }
 ]
