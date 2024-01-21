@@ -76,7 +76,6 @@ function readPreviousResponse() {
 
 function writeCurrentResponse(responseData) {
     fs.writeFileSync('previous_response.json', JSON.stringify(responseData, null, 2));
-    console.log("Res written to file")
 }
 
 axios.get(apiUrl, { params: queryParams })
